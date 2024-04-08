@@ -7,7 +7,7 @@ This repository contains Python scripts for various assignments covering data ma
 1. Clone the repository:
 
    ```sh
-   git clone 
+   git clone https://github.com/Prabhratirastogi/Assignments
    ```
 
 2. Install the required dependencies:
